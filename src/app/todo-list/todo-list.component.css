@@ -1,0 +1,21 @@
+h2{
+    margin-top: 0;
+    color: blue;
+}
+
+form{
+    margin: 0;
+}
+
+input[type="text"]{
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+button{
+    padding: 5px 10px;
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
